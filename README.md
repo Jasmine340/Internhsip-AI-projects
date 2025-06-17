@@ -1,2 +1,2 @@
-# Splash-Mark-project
+# Internship-AI-project
 Basic projects
